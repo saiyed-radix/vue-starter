@@ -2,7 +2,7 @@
 
 **Milestone1:**
 
-**I. Introduction and installation of VueJS **
+**I. Introduction and installation of VueJS**
 
 https://www.geeksforgeeks.org/vue-js-introduction-installation/
 https://vuejs.org/v2/guide/
