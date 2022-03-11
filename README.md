@@ -1,141 +1,131 @@
 # vue-starter
 
-**Milestone1:**
+## Milestone1:
 
-**I. Introduction and installation of VueJS**
+1. Introduction and installation of VueJS\*\*
 
-https://www.geeksforgeeks.org/vue-js-introduction-installation/
-https://vuejs.org/v2/guide/
+   - https://www.geeksforgeeks.org/vue-js-introduction-installation/
+   - https://vuejs.org/v2/guide/
 
-**II. Interpolation and Data Binding**
+2. Interpolation and Data Binding\*\*
 
-**Interpolation**
+   - Interpolation
 
-https://vuejs.org/guide/essentials/template-syntax.html#text-interpolation
+     - https://vuejs.org/guide/essentials/template-syntax.html#text-interpolation
 
-**Data Binding**
+   - Data Binding
+     - https://www.javatpoint.com/vue-js-data-binding
+     - https://v1.vuejs.org/guide/syntax.html
 
-https://www.javatpoint.com/vue-js-data-binding
+3. Explore Reactivity Fundamentals Props, state, components, lifecycle Methods\*\*
 
-https://v1.vuejs.org/guide/syntax.html
+   - Reactivity Fundamentals Props
 
+     - https://www.smashingmagazine.com/2021/03/reactivity-in-vue/
+     - https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_reactivity_lifecycle_accessibility
 
-**III. Explore Reactivity Fundamentals Props, state, components, lifecycle Methods**
+   - state
 
-**Reactivity Fundamentals Props**
+     - https://vuejs.org/guide/scaling-up/state-management.html
+     - https://vuex.vuejs.org/guide/state.html
 
-https://www.smashingmagazine.com/2021/03/reactivity-in-vue/
+   - components
 
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_reactivity_lifecycle_accessibility
+     - https://vuejs.org/guide/essentials/component-basics.html
 
-**state**
+   - lifecycle Methods
+     - https://vuejs.org/api/options-lifecycle.html
 
-https://vuejs.org/guide/scaling-up/state-management.html
+4. Directives and Event Handling
 
-https://vuex.vuejs.org/guide/state.html
+   - Directives
+     - https://www.tutorialspoint.com/vuejs/vuejs_directives.htm#:~:text=Directives%20are%20instruction%20for%20VueJS,%2C%20v%2Don%2C%20etc.
+   - https://vuejs.org/api/built-in-directives.html
+   - Event Handling
+     - https://vuejs.org/guide/essentials/event-handling.html
 
-**components**
+5. Methods, Computed properties and Watchers
 
-https://vuejs.org/guide/essentials/component-basics.html
+   - Methods
 
-**lifecycle Methods**
+     - https://v1.vuejs.org/guide/events.html
 
-https://vuejs.org/api/options-lifecycle.html
+   - Computed properties and Watchers
+     - https://vuejs.org/guide/essentials/computed.html
 
-    
-    
-**IV. Directives and Event Handling**
+6. Template Refs & forms(with validation)\*\*
 
-**Directives**
+   - https://vuejs.org/guide/essentials/template-refs.html
+   - https://vuejs.org/guide/essentials/forms.html
 
-https://www.tutorialspoint.com/vuejs/vuejs_directives.htm#:~:text=Directives%20are%20instruction%20for%20VueJS,%2C%20v%2Don%2C%20etc.
-https://vuejs.org/api/built-in-directives.html
+7. Single file component
 
-**Event Handling**
+   - https://vuejs.org/guide/scaling-up/sfc.html
 
-https://vuejs.org/guide/essentials/event-handling.html
+8. VueJS Routing
+   - https://v2.vuejs.org/v2/guide/routing.html
 
-**V. Methods, Computed properties and Watchers** 
+### Reference Links:
 
-**Methods**
+- https://cli.vuejs.org/
+- https://vuejs.org/guide/introduction.html
+- https://router.vuejs.org/
+- https://vuex.vuejs.org/
+- https://v2.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html?redirect=true
+- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
 
-https://v1.vuejs.org/guide/events.html
+## Milestone2:
 
-**Computed properties and Watchers**
+1. Get knowledge of VueJs Mixings and Vuex(& authenticaiton)
 
-https://vuejs.org/guide/essentials/computed.html
+   - https://blog.bitsrc.io/understanding-mixins-in-vue-js-bdcf9e02a7c1
+   - https://www.digitalocean.com/community/tutorials/
+   - how-to-manage-state-in-a-vue-js-application-with-vuex
 
-**VI. Template Refs & forms(with validation)**
+2. Explore Style binding and Conditional rendering\*\*
 
-https://vuejs.org/guide/essentials/template-refs.html
+   - https://v2.vuejs.org/v2/guide/class-and-style.html
+   - https://www.digitalocean.com/community/tutorials/vuejs-dynamic-styles
 
-https://vuejs.org/guide/essentials/forms.html
+3. Get understanding of create generic reusable component with understandable props name
 
-**VII. Single file component**
+   - https://codeburst.io/creating-reusable-components-with-vue-js-button-component-503167facfde
+   - https://www.digitalocean.com/community/tutorials/how-to-create-reusable-blocks-of-code-with-vue-single-file-components
 
-https://vuejs.org/guide/scaling-up/sfc.html
+4. Try to implement any UI library (like: Material UI, Tailwind CSS)
 
-**VIII. VueJS Routing**
+   - https://www.codeinwp.com/blog/vue-ui-component-libraries/
+   - https://athemes.com/collections/vue-ui-component-libraries/
 
-https://v2.vuejs.org/v2/guide/routing.html
+5. Interact with API
 
-
-**Milestone2:**
-
-**I. Get knowledge of VueJs Mixings and Vuex(& authenticaiton)**
-
-https://blog.bitsrc.io/understanding-mixins-in-vue-js-bdcf9e02a7c1
-
-https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-a-vue-js-application-with-vuex
-
-**II. Explore Style binding and Conditional rendering**
-
-https://v2.vuejs.org/v2/guide/class-and-style.html
-
-https://www.digitalocean.com/community/tutorials/vuejs-dynamic-styles
-
-**III. Get understanding of create generic reusable component with understandable props name**
-
-https://codeburst.io/creating-reusable-components-with-vue-js-button-component-503167facfde
-
-https://www.digitalocean.com/community/tutorials/how-to-create-reusable-blocks-of-code-with-vue-single-file-components
-
-**IV. Try to implement any UI library (like: Material UI, Tailwind CSS)**
-
-https://www.codeinwp.com/blog/vue-ui-component-libraries/
-
-https://athemes.com/collections/vue-ui-component-libraries/
-
-
-**V. Interact with API**
-
-https://v2.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html?redirect=true
-
-https://rapidapi.com/blog/how-to-use-an-api-with-vue-js/
-
-**VI. How to Debug and trace the code**
-
-https://v2.vuejs.org/v2/cookbook/debugging-in-vscode.html
-
-
-**VII. Create a deployment build and run**
-
-https://cli.vuejs.org/guide/deployment.html
-    
-    
-    
-**Exercise:**
-
-• Create below demo project with using all life cycle methods and proper folder structure 
-
-• Use concept of create reusable components and common props.
-
-• Create Pages: 
-
-◦ Page 1: Home page with slider, display grid with static data
-
-◦ Page 2: Contact us page with form with proper validation (Json- crud with pagination and sorting)
-
-◦ Page 3: List contact us data with functionality of shorting and give a button to display data in popup
-
-
+   - https://v2.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html?redirect=true
+   - https://rapidapi.com/blog/how-to-use-an-api-with-vue-js/
+
+6. How to Debug and trace the code
+
+   - https://v2.vuejs.org/v2/cookbook/debugging-in-vscode.html
+
+7. Create a deployment build and run
+   - https://cli.vuejs.org/guide/deployment.html
+
+### Reference links:
+
+- https://v2.vuejs.org/v2/guide/ssr.html
+- https://vuejs.org/guide/extras/composition-api-faq.html
+- https://javascript.plainenglish.io/differences-between-vue-2-and-vue-3-ee627e2c83a8
+- https://www.netlify.com/blog/2019/11/30/how-to-deploy-a-vue-site/
+- https://nuxtjs.org/
+- https://vuetifyjs.com/en/
+- https://quasar.dev/
+- https://www.smashingmagazine.com/2020/10/authentication-in-vue-js/
+- https://v2.vuejs.org/v2/cookbook/unit-testing-vue-components.html?redirect=true
+
+## Exercise:
+
+- Create a demo project with proper folder structure
+- Use concept of create reusable components and common props using all life cycle methods.
+- Create Pages:
+  - Page 1: Home page with slider, display grid with static data
+  - Page 2: Contact us page with form with proper validation (Json- crud with pagination and sorting)
+  - Page 3: List contact us data with functionality of shorting and give a button to display data in popup
