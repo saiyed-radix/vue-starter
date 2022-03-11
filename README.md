@@ -65,15 +65,6 @@
 8. VueJS Routing
    - https://v2.vuejs.org/v2/guide/routing.html
 
-### Reference Links:
-
-- https://cli.vuejs.org/
-- https://vuejs.org/guide/introduction.html
-- https://router.vuejs.org/
-- https://vuex.vuejs.org/
-- https://v2.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html?redirect=true
-- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
-
 ## Milestone2:
 
 1. Get knowledge of VueJs Mixings and Vuex(& authenticaiton)
@@ -109,17 +100,14 @@
 7. Create a deployment build and run
    - https://cli.vuejs.org/guide/deployment.html
 
-### Reference links:
+### Reference Links:
 
-- https://v2.vuejs.org/v2/guide/ssr.html
-- https://vuejs.org/guide/extras/composition-api-faq.html
-- https://javascript.plainenglish.io/differences-between-vue-2-and-vue-3-ee627e2c83a8
-- https://www.netlify.com/blog/2019/11/30/how-to-deploy-a-vue-site/
-- https://nuxtjs.org/
-- https://vuetifyjs.com/en/
-- https://quasar.dev/
-- https://www.smashingmagazine.com/2020/10/authentication-in-vue-js/
-- https://v2.vuejs.org/v2/cookbook/unit-testing-vue-components.html?redirect=true
+- https://cli.vuejs.org/
+- https://vuejs.org/guide/introduction.html
+- https://router.vuejs.org/
+- https://vuex.vuejs.org/
+- https://v2.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html?redirect=true
+- https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
 
 ## Exercise:
 
@@ -129,3 +117,11 @@
   - Page 1: Home page with slider, display grid with static data
   - Page 2: Contact us page with form with proper validation (Json- crud with pagination and sorting)
   - Page 3: List contact us data with functionality of shorting and give a button to display data in popup
+
+## What you will be able to do post this course:
+
+- Participate in existing VueJS Project
+- Examine the fundamental architecture of a vueJS application
+- Will learn all the life cycle method(hooks) of the vueJS
+- Learn how to use Vue components to create interactive interfaces
+- Create reusable, common logic for usage in the app ecosystem
